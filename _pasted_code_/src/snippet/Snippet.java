@@ -8,6 +8,8 @@ public class Snippet {
 		
 		System.out.println("hii");
 		
+		//	System.out.println("hii");
+		
 		System.out.println("this is rahul patidar");
 		
 		
